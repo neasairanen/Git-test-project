@@ -1,0 +1,10 @@
+# Ignores all files with the following flie extensions:
+*.png
+*.txt
+*.doc
+*.docx
+*.jpg
+*.exe
+*.pdf
+#ignoring the whole folder and all its contents
+/screen_captures
